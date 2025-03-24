@@ -32,3 +32,11 @@ CBV with get put delete post
 
 headers-> in response 200 , 201 created for post
 data - > use json to send or receive data"# django-restframework-project" 
+
+
+============================================================
+
+DRF
+
+pip install djangorestframework
+
